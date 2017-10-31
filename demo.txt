@@ -1,1 +1,3 @@
 Adding some content to the text file for testing.
+
+Now adding text from local copy instead of server.
